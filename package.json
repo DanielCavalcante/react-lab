@@ -1,0 +1,19 @@
+{
+  "name": "react-lab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielCavalcante/react-lab.git"
+  },
+  "author": "Daniel Cavalcante de Souza",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DanielCavalcante/react-lab/issues"
+  },
+  "homepage": "https://github.com/DanielCavalcante/react-lab#readme"
+}
